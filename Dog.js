@@ -4,4 +4,5 @@ function Dog (name, age){
 	this.age = age
 }
 
+
 module.exports = Dog; 
